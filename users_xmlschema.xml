@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="users.xsl"?>
+<userdetails smlns:f="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="uservalidation.xsd">
+	<users>
+	      <firstname>Shivani</firstname>
+		  <lastname>Thangeda</lastname>
+		  <favouriteshortcut>Control c in chrome</favouriteshortcut>
+    </users>
+	<users>
+	      <firstname>Rahul</firstname>
+		  <lastname>Rangu</lastname>
+		  <favouriteshortcut>Control v in chrome</favouriteshort>
+	<users>
+</userdetails>
+		  
